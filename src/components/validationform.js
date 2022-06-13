@@ -6,6 +6,5 @@ export default class ValidationForm extends React.Component{
         email="",
         password="",
         nameError="",
-        
     }
 }

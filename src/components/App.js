@@ -18,11 +18,10 @@ function firstPage() {
         <Landingpage/>
         </div>
         <Form/>
-        WELCOME TO THE FIRST COMMUNITY WHO WORKS FOR HAVING VERY GOOD RESULT IN FEW TIME
       </div>
       </div>
-
       <div className='dark-background'>
+        
       </div>
     </div>
   );
