@@ -4,6 +4,7 @@ import Landingpage from './LandingPage';
 import Mylogo from './logo';
 import Mybutton from './button';
 import Form from './entry';
+import Price from './price';
 
 function firstPage() {
   return (
@@ -21,7 +22,7 @@ function firstPage() {
       </div>
       </div>
       <div className='dark-background'>
-        
+        <Price/>
       </div>
     </div>
   );
