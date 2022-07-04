@@ -9,18 +9,19 @@ import Price from './price';
 function firstPage() {
   return (
     <div className='main-div'>
-      <div className='background-div'>
+      <section className='background-div'>
         <div className="App">
           <div className='header'>
             <Mylogo />
             <Mybutton />
           </div>
+          <></>
           <div className='text'>
             <Landingpage />
           </div>
           <Form />
         </div>
-      </div>
+      </section>
       <div className='dark-background'>
         <Price />
       </div>

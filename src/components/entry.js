@@ -1,5 +1,5 @@
 import './assets/Landingpage.css'
-import { useState, useEffect } from "react";
+import {useState, useEffect} from "react";
 
 
 function Form() {
