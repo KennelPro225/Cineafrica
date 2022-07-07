@@ -7,15 +7,15 @@ import "./assets/Landingpage.css";
 function Price() {
   return (
     <div className="price-table">
-      <img src={prix} alt="Image" className="wallet-image" />
+      <img src={prix} alt="Price" className="wallet-image" />
       <p className="text-price">
-        Tous vos meilleurs films à moindres coûts. Cliquez <a href="#">ici</a>{" "}
+        Tous vos meilleurs films à moindres coûts. Cliquez <a href="/">ici</a>{" "}
         pour voir la grille des prix
       </p>
 
-      <img src={film} alt="Image" className="Film-6" />
-      <img src={film1} alt="Image" className="Film-16" />
-      <img src={film2} alt="Image" className="Film-30" />
+      <img src={film} alt="film" className="Film-6" />
+      <img src={film1} alt="film" className="Film-16" />
+      <img src={film2} alt="film" className="Film-30" />
 
       <p className="text-cat">
         Il y en a de tout genre et pour toutes les catégories
